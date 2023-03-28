@@ -15,6 +15,7 @@ As this is the final project, I will focus on
 
 **Table of content**
 - [Source Code](https://github.com/TanyamonSiri/house-prices-prediction-with-regression-model/blob/main/house_price_prediction/Source_Code.py)
+- [Full report](https://datalore.jetbrains.com/view/notebook/R63O9S05AyRWULGpWIk0EB) : View my full report in datalore 
 
 ### Dataset Acknowledgements
 The Ames Housing dataset was compiled by Dean De Cock for use in data science education. 
