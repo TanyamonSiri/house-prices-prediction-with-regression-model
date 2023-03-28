@@ -14,7 +14,7 @@ As this is the final project, I will focus on
 - Implement linear regression model to predict house prices using the Ames Housing Dataset
 
 **Table of content**
-- [Source Code](https://github.com/TanyamonSiri/house-prices-prediction-with-regression-model/blob/main/House_Price_Prediction_187_Tanyamon_Ping.py)
+- [Source Code](https://github.com/TanyamonSiri/house-prices-prediction-with-regression-model/blob/main/house_price_prediction/Source_Code.py)
 
 ### Dataset Acknowledgements
 The Ames Housing dataset was compiled by Dean De Cock for use in data science education. 
