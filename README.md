@@ -10,7 +10,6 @@ This notebook is a part of a final project in **The Data Master** program by xLa
 
 ### Description
 
-The goal of this report is to highlight:
 As this is the final project, I will focus on
 - Explore multiple feature engineering methods
 - Apply scikit-learn Pipeline to create pipeline for preprocessing and column transformer
