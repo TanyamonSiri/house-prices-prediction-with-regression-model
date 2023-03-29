@@ -22,6 +22,6 @@ As this is the final project, I will focus on
 - [Data](https://github.com/TanyamonSiri/house-prices-prediction-with-regression-model/blob/main/house_price_prediction/house-price-prediction.csv) : The Ames Housing dataset
 - [Full report](https://datalore.jetbrains.com/view/notebook/R63O9S05AyRWULGpWIk0EB) : View my full report in datalore 
 
-### Dataset Acknowledgements
+#### Dataset Acknowledgements
 The Ames Housing dataset was compiled by Dean De Cock for use in data science education. 
 It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset.
