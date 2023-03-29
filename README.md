@@ -20,6 +20,7 @@ As this is the final project, I will focus on
 
 **Table of content**
 - [Source Code](https://github.com/TanyamonSiri/house-prices-prediction-with-regression-model/blob/main/house_price_prediction/Source_Code.py)
+- [Data](https://github.com/TanyamonSiri/house-prices-prediction-with-regression-model/blob/main/house_price_prediction/house-price-prediction.csv) : The Ames Housing dataset
 - [Full report](https://datalore.jetbrains.com/view/notebook/R63O9S05AyRWULGpWIk0EB) : View my full report in datalore 
 
 ### Dataset Acknowledgements
